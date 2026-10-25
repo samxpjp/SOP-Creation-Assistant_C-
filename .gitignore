@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+publish*/
+installer_output/
+*.user
+build-errors.txt
+build-output.txt
+launch.exe

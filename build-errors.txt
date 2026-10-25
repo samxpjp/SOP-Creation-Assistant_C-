@@ -1,0 +1,6 @@
+MSBUILD : error MSB1008: 只能指定一個專案。
+    完整命令列: 'C:\Program Files\dotnet\sdk\10.0.302\MSBuild.exe -maxcpucount --verbosity:m -tlp:default=auto --property:NuGetInteractive=false --restoreProperty:NuGetInteractive=false --restoreProperty:EnableDefaultCompileItems=false --restoreProperty:EnableDefaultEmbeddedResourceItems=false --restoreProperty:EnableDefaultNoneItems=false --nologo SOPCreationAssistant.sln /clp:ErrorsOnly ; findstr /I  error Build FAILED Build succeeded build-errors.txt -consoleloggerparameters:Summary -restore -distributedlogger:Microsoft.DotNet.Cli.Commands.MSBuild.MSBuildLogger,C:\Program Files\dotnet\sdk\10.0.302\dotnet.dll*Microsoft.DotNet.Cli.Commands.MSBuild.MSBuildForwardingLogger,C:\Program Files\dotnet\sdk\10.0.302\dotnet.dll'
+  回應檔案附加的切換參數:
+參數: ;
+
+如需參數語法，請鍵入 "MSBuild -help"
